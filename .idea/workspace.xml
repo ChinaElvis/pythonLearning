@@ -11,17 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonBasic/dict/Cp4_dict01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,6 +39,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -56,22 +47,10 @@
               <item name="pythonLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonLearning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pythonLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonBasic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="dict" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -81,6 +60,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\pythonLearning\pythonBasic\string" />
+      <recent name="C:\Users\Administrator\Desktop\pythonLearning\pythonBasic\sequence" />
+      <recent name="C:\Users\Administrator\Desktop\pythonLearning\pythonBasic\function" />
       <recent name="C:\Users\Administrator\Desktop\pythonLearning\pythonBasic\dict" />
     </key>
   </component>
@@ -108,7 +90,12 @@
       <updated>1550393251828</updated>
       <workItem from="1550393259399" duration="45000" />
       <workItem from="1550405229904" duration="2668000" />
-      <workItem from="1550476469565" duration="210000" />
+      <workItem from="1550476469565" duration="1694000" />
+      <workItem from="1550819239951" duration="610000" />
+      <workItem from="1551323375812" duration="599000" />
+      <workItem from="1551421744637" duration="599000" />
+      <workItem from="1551442106765" duration="1000" />
+      <workItem from="1551582863763" duration="603000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1550406219394</created>
@@ -124,16 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1550458675033</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="增加python基础教程学习记录">
+      <created>1550476864358</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550476864358</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2923000" />
+    <option name="totallyTimeSpent" value="6819000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="887" height="1167" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5356711" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24919957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -162,13 +156,27 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="first commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit2" />
+    <MESSAGE value="增加python基础教程学习记录" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加python基础教程学习记录" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pythonBasic/dict/Cp4_dict01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBasic/string/Cp3_index01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBasic/sequence/Cp2_index01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBasic/function/Cp6_def01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
