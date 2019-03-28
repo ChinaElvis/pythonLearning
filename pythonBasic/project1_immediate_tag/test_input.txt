@@ -1,0 +1,28 @@
+A new study suggests the Apple Watch was able to identify abnormal heart rates that could be linked to a serious heart condition.
+More than 400,000 Apple Watch users volunteered for the study. It was a project of researchers at the Stanford University School of Medicine.
+Apple, the American technology company, provided money for the study. Results were recently presented at a major conference on heart health in New Orleans, Louisiana.
+The researchers looked for signs of atrial fibrillation, the most common form of irregular heartbeat. The condition, also called "a-fib," results from the abnormal firing of electrical signals in the upper chambers of the heart.
+
+Some people with atrial fibrillation feel changes in their heartbeat, while others do not. Because of this, many people do not know they have the condition.
+People with untreated a-fib are about five times more likely to suffer a stroke. In the United States, a-fib causes an estimated 130,000 deaths and 750,000 hospitalizations each year.
+Apple CEO Tim Cook, left and soccer player Alex Morgan discuss the new Apple Watch 4 at the Steve Jobs Theater during an event to announce new products Wednesday, Sept. 12, 2018, in Cupertino, Calif. (AP Photo/Marcio Jose Sanchez)
+Apple CEO Tim Cook, left and soccer player Alex Morgan discuss the new Apple Watch 4 at the Steve Jobs Theater during an event to announce new products Wednesday, Sept. 12, 2018, in Cupertino, Calif. (AP Photo/Marcio Jose Sanchez)
+People taking part in the study wore the Apple Watch for extended periods during 2017 and 2018. The devices contain an app that continuously gathers information without users having to do anything. It uses the watch's light sensor technology to measure blood flow. The system is designed to identify changes that might show an irregular heartbeat.
+
+The researchers said that out of those taking part, about 2,000 subjects received a warning from the device that they might have a problem.
+Those individuals were then asked to contact a doctor, who decided whether they should receive a patch to more closely watch for a possible irregular heartbeat. The patch uses electrocardiography, or ECG technology. Electrocardiography is the process of measuring and recording electrical signals in the heart.
+The study found that about 84 percent of the time, those who received warnings of irregular heartbeat activity were found to be experiencing a-fib at the time. Of those who received warnings and followed up by using an ECG patch, one third were found later to have a-fib.
+Overall, about 57 percent of those taking part in the study sought some kind of medical attention, researchers said.
+
+Lloyd Minor is head of Stanford's School of Medicine. In a statement, he said the results show great promise in using technology to create "more predictive and preventive health care."
+Doctor Minor added that a-fib is just one example of a condition devices can help identify in the future. "This study opens the door to further research into wearable technologies and how they might be used to prevent disease before it strikes," he said.
+But some health researchers warned against making any general judgements based on the Apple-financed study. They have called for much more research to measure the effectiveness of wearable devices to identify signs of disease.
+Jeff Williams, Apple's chief operating officer, speaks about the Apple Watch Series 4 at the Steve Jobs Theater during an event to announce new Apple products Wednesday, Sept. 12, 2018, in Cupertino, Calif. (AP Photo/Marcio Jose Sanchez)
+Jeff Williams, Apple's chief operating officer, speaks about the Apple Watch Series 4 at the Steve Jobs Theater during an event to announce new Apple products Wednesday, Sept. 12, 2018, in Cupertino, Calif. (AP Photo/Marcio Jose Sanchez)
+Richard Kovacs is with the American College of Cardiology. He was not involved with the study. Doctor Kovacs told the Associated Press that despite the results, the Apple Watch system "is not perfect." He noted that since the study did not have a comparison group getting regular ECG measurements, there is no way of knowing if the device missed heartbeat problems. This could give users a false sense of security, he said.
+Other experts agreed that more studies are needed before similar device-based health observation systems are widely recommended.
+
+"I would not advise this to the overall general population," said Valentin Fuster, director of New York's Mount Sinai Heart system and a former American Heart Association president. He said he would rather see such systems tested in people with additional health risks, such as older adults with high blood pressure.
+I'm Bryan Lynn.
+Bryan Lynn wrote this story for VOA Learning English. His story was based on reports from the Associated Press, Reuters and the Stanford study. George Grow was the editor.
+How do you feel about devices designed to observe body conditions and prevent disease? Write to us in the Comments section, and visit 51VOA.COM.
