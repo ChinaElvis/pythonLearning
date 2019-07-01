@@ -34,6 +34,7 @@ class Parser:
         self.handler.end('document')
 
 
+
 class BasicTextParser(Parser):
     def __init__(self, handler):
         Parser.__init__(self, handler)
